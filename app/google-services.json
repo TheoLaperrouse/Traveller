@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79530578300",
+    "firebase_url": "https://carnetdevoyage-29a6e.firebaseio.com",
+    "project_id": "carnetdevoyage-29a6e",
+    "storage_bucket": "carnetdevoyage-29a6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79530578300:android:ffa9045aec741a3f",
+        "android_client_info": {
+          "package_name": "com.theolaperrouse.carnetdevoyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79530578300-loihk5ldfhp5ch9r29fbelar2fk73t8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theolaperrouse.carnetdevoyage",
+            "certificate_hash": "624e76bd3d99691ded11c5c0e8a2bdc322dea3a4"
+          }
+        },
+        {
+          "client_id": "79530578300-puo6vj33eub1p4u1otakbta950p1hk0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnjGyE4dRG6U5Rt2oW_aB7fltG8dDscc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79530578300-puo6vj33eub1p4u1otakbta950p1hk0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
